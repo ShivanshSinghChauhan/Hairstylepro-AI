@@ -1,0 +1,7 @@
+{
+  "name": "HairstyleAI Pro",
+  "description": "Professional AI-powered hairstyle preview system with 15+ photorealistic styles, texture mapping, and cinematic video previews.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
